@@ -5,5 +5,5 @@ I am an inquisitive learner who likes to code :computer: and learn new technolog
 
 **Learning**: React,Full-Stack Web Development ,DSA<br>
 **Languages**: Java,Javascript <br>
-**My Favourite Pastime**: Music :headphones: ,Travelling :speedboat:<br>
+**My Favourite Pastime**: Music :headphones: ,Travelling :speedboat:<br><br>
 **while(!success){try();} :zap:**
