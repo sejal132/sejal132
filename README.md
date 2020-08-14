@@ -7,5 +7,5 @@ I am an inquisitive learner who likes to code :computer: and learn new technolog
 **Languages**: Java,Javascript <br>
 **My Favourite Pastime**: Music :headphones: ,Travelling :speedboat:<br><br>
 **while(!success){try();} :zap:**
-
-[![Sejal's github stats](https://github-readme-stats.vercel.app/api?username=sejal132)](https://github.com/sejal132/github-readme-stats)
+---
+[![Sejal's github stats](https://github-readme-stats.vercel.app/api?username=sejal132&show_icons=true&theme=onedark)](https://github.com/sejal132/github-readme-stats)
